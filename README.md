@@ -89,7 +89,7 @@ milesFromMetropolis: Specifies the distance the job listing is from the center o
 ## Feature Summary
 
 ### Salary vs jobType
-<img width="925" alt="Screen Shot 2022-06-13 at 11 17 39 PM" src="https://user-images.githubusercontent.com/104243935/173486202-8a645201-9484-459a-8d16-a1a69437e817.png">
+<img width="898" alt="Screen Shot 2022-06-13 at 11 41 39 PM" src="https://user-images.githubusercontent.com/104243935/173488731-9deac672-f044-4792-92e7-d7175d6557e2.png">
 
 There is a relationship between salaries and job types as CEO,CFO,CTO have higher salaries compared to other job types
 
